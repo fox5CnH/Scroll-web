@@ -79,3 +79,9 @@ header nav span a:hover::before{
 .About p{
     padding: 18px 0px;
 }
+footer {
+    background-color: #ffffff;
+    color: #572298;
+    padding: 10px;
+    text-align: center;
+  }
